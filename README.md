@@ -2,6 +2,7 @@
 
 💻 Junior frontend-разработчик (самоучка)
 
+<details>
 <summary>🔧 Стек (постоянно учусь и стараюсь дополнять):</summary>
 - HTML (HTML5), JSX
 - CSS (CSS3), Sass (SCSS)
@@ -9,6 +10,7 @@
 - Vite
 - Git (GitHub)
 - Figma
+</details>
 
 <summary>🔧 Ссылки на мои учебные проекты с подробным описанием:</summary>
 - https://github.com/VAChekhov/kropp-fitness
