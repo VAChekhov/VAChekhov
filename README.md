@@ -9,6 +9,7 @@
   - CSS (CSS3), Sass (SCSS)
   - JavaScript (ES6+)
   - Vite
+  - NPM
   - БЭМ
   - Git (GitHub)
   - Figma
