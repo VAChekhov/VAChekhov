@@ -1,3 +1,7 @@
+# Привет, меня зовут Владислав!
+
+💻 Junior frontend-разработчик (самоучка)
+
 <details>
   <summary>🔧 Мой стек (постоянно учусь и дополняю):</summary>
 
@@ -15,3 +19,11 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
 </details>
+
+<summary>🔧 Ссылки на мои учебные проекты с подробным описанием:</summary>  
+
+- [Лендинг для фитнес-клуба](https://github.com/VAChekhov/kropp-fitness)  
+
+- [Лендинг для маркетингового агенства](https://github.com/VAChekhov/positivus)  
+
+- [Многостраничный сайт по AI-тематике](https://github.com/VAChekhov/future-tech)
