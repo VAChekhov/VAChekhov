@@ -2,9 +2,6 @@
 
 💻 Junior frontend-разработчик (самоучка)
 
-<details>
-  <summary>🔧 Мой стек (постоянно учусь и дополняю):</summary>
-
   <p align="left">
     <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -18,7 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
-</details>
 
 <summary>🔧 Ссылки на мои учебные проекты с подробным описанием:</summary>  
 
