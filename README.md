@@ -20,6 +20,6 @@
 
 - [Лендинг для фитнес-клуба](https://github.com/VAChekhov/kropp-fitness)  
 
-- [Лендинг для маркетингового агенства](https://github.com/VAChekhov/positivus)  
+- [Лендинг для маркетингового агентства](https://github.com/VAChekhov/positivus)  
 
 - [Многостраничный сайт по AI-тематике](https://github.com/VAChekhov/future-tech)
