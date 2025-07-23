@@ -23,3 +23,5 @@
 - [Лендинг для маркетингового агентства](https://github.com/VAChekhov/positivus)  
 
 - [Многостраничный сайт по AI-тематике](https://github.com/VAChekhov/future-tech)
+
+- [Многостраничный сайт для стримингового сервиса](https://github.com/VAChekhov/stream-vibe)
