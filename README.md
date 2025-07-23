@@ -17,8 +17,8 @@
 
 <summary>🔧 Ссылки на мои учебные проекты с подробным описанием:</summary>  
 
-- https://github.com/VAChekhov/kropp-fitness  
+- [Лендинг для фитнес-клуба](https://github.com/VAChekhov/kropp-fitness)  
 
-- https://github.com/VAChekhov/positivus  
+- [Лендинг для маркетингового агенства](https://github.com/VAChekhov/positivus)  
 
-- https://github.com/VAChekhov/future-tech
+- [Многостраничный сайт по AI-тематике](https://github.com/VAChekhov/future-tech)
