@@ -17,3 +17,4 @@
 
 <summary>🔧 Ссылки на мои учебные проекты с подробным описанием:</summary>
 - https://github.com/VAChekhov/kropp-fitness
+- https://github.com/VAChekhov/future-tech
