@@ -1,9 +1,10 @@
 # Привет, меня зовут Владислав!
 
-💻 Junior frontend-разработчик (самоучка)
+💻 Junior frontend-разработчик
 
   <p align="left">
     <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-%2361dafb" />
     <img src="https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white" />
