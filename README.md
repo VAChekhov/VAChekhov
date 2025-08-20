@@ -1,6 +1,6 @@
 # Привет, меня зовут Владислав!
 
-💻 Junior frontend-разработчик
+💻 Frontend-разработчик самоучка
 
   <p align="left">
     <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
