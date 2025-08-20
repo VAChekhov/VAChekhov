@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
 
-<summary>🔧 Ссылки на мои учебные проекты с подробным описанием:</summary>  
+<summary>Ссылки на мои учебные проекты с подробным описанием:</summary>  
 
 - [Лендинг для фитнес-клуба](https://github.com/VAChekhov/kropp-fitness) 
 
