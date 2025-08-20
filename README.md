@@ -25,3 +25,5 @@
 - [Многостраничный сайт по AI-тематике](https://github.com/VAChekhov/future-tech)
 
 - [Многостраничный сайт для стримингового сервиса](https://github.com/VAChekhov/stream-vibe)
+
+- [To Do List на чистом JavaScript](https://github.com/VAChekhov/to-do-list-vanilla-js)
