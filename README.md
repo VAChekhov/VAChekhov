@@ -20,14 +20,14 @@
 
 <summary>🔧 Ссылки на мои проекты с подробным описанием:</summary> 
 
-- [To Do List на React 19](https://github.com/VAChekhov/to-do-list-react-js) 
-
-- [Лендинг для фитнес-клуба](https://github.com/VAChekhov/kropp-fitness) 
-
-- [Лендинг для маркетингового агентства](https://github.com/VAChekhov/positivus)
+- [To Do List на React 19](https://github.com/VAChekhov/to-do-list-react-js)
 
 - [Многостраничный сайт по AI-тематике](https://github.com/VAChekhov/future-tech)
+
+- [Лендинг для маркетингового агентства](https://github.com/VAChekhov/positivus)
 
 <!-- - [Многостраничный сайт для стримингового сервиса](https://github.com/VAChekhov/stream-vibe) -->
 
 - [To Do List на чистом JavaScript](https://github.com/VAChekhov/to-do-list-vanilla-js)
+
+- [Лендинг для фитнес-клуба](https://github.com/VAChekhov/kropp-fitness) 
