@@ -20,7 +20,7 @@
 
 <summary>🔧 Ссылки на мои проекты с подробным описанием:</summary> 
 
-- [To Do List на React 19](https://vachekhov.github.io/to-do-list-react-js/) 
+- [To Do List на React 19](https://github.com/VAChekhov/to-do-list-react-js) 
 
 - [Лендинг для фитнес-клуба](https://github.com/VAChekhov/kropp-fitness) 
 
