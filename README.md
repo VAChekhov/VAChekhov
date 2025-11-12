@@ -18,7 +18,9 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
 
-<summary>🔧 Ссылки на мои проекты с подробным описанием:</summary>  
+<summary>🔧 Ссылки на мои проекты с подробным описанием:</summary> 
+
+- [To Do List на React 19]([https://github.com/VAChekhov/kropp-fitness](https://vachekhov.github.io/to-do-list-react-js/)) 
 
 - [Лендинг для фитнес-клуба](https://github.com/VAChekhov/kropp-fitness) 
 
